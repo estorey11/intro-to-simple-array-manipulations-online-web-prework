@@ -50,6 +50,6 @@ def using_delete(a, str)
   a.delete(str)
 end
 
-def using_delete_at
-
+def using_delete_at(a, i)
+  a.dele
 end
