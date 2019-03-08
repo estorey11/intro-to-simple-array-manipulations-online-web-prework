@@ -10,7 +10,7 @@ def using_pop(a)
   a.pop
 end
 
-def pop_with_args(a, num)
+def pop_with_args(a, num=2)
   until num==0 
     a.pop 
     num-=1
