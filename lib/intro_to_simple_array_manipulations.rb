@@ -19,7 +19,7 @@ def pop_with_args(a, num=2)
 end
 
 def using_shift(a)
-  shift.a
+  a.shift
 end
 
 def shift_with_args(a, num)
